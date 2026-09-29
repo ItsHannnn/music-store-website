@@ -1,12 +1,12 @@
 document.addEventListener('alpine:init', () => {
     Alpine.data('gitar', () => ({
         items: [
-            { id: 1, name: 'Fender Stratocaster', img: 'strat.jpg', price: '25000000'},
-            { id: 2, name: 'Gibson Les Paul', img: 'LESPAUL.jpg', price: '35000000' },
-            { id: 3, name: 'PRS SE  Standard satin', img: 'PRS.jpg', price: '8500000' },
-            { id: 4, name: 'LTD Viper', img: 'Viper.jpg', price: '3400000' },
-            { id: 5, name: 'Jackson Kelly', img: 'Jackson.jpg', price: '35600000' },
-            { id: 6, name: 'Ibanez PIA', img: 'ibanez.jpg', price: '55000000' },
+            { id: 1, name: 'Fender Stratocaster', img: 'assets/gitar/strat.jpg', price: '25000000'},
+            { id: 2, name: 'Gibson Les Paul', img: 'assets/gitar/LESPAUL.jpg', price: '35000000' },
+            { id: 3, name: 'PRS SE  Standard satin', img: 'assets/gitar/PRS.jpg', price: '8500000' },
+            { id: 4, name: 'LTD Viper', img: 'assets/gitar/Viper.jpg', price: '3400000' },
+            { id: 5, name: 'Jackson Kelly', img: 'assets/gitar/Jackson.jpg', price: '35600000' },
+            { id: 6, name: 'Ibanez PIA', img: 'assets/gitar/ibanez.jpg', price: '55000000' },
         ],
     }));
 });
