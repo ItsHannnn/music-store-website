@@ -5,7 +5,7 @@ document.addEventListener('alpine:init', () => {
             { id: 2, name: 'Gibson Les Paul', img: 'LESPAUL.jpg', price: '35000000' },
             { id: 3, name: 'PRS SE  Standard satin', img: 'PRS.jpg', price: '8500000' },
             { id: 4, name: 'LTD Viper', img: 'Viper.jpg', price: '3400000' },
-            { id: 5, name: 'Jackson Kelly', img: 'jackson.jpg', price: '35600000' },
+            { id: 5, name: 'Jackson Kelly', img: 'Jackson.jpg', price: '35600000' },
             { id: 6, name: 'Ibanez PIA', img: 'ibanez.jpg', price: '55000000' },
         ],
     }));
